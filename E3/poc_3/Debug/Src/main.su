@@ -1,0 +1,4 @@
+../Src/main.c:47:11:initializeLedDelay	24	static
+../Src/main.c:63:5:main	16	static
+../Src/main.c:107:13:SystemClock_Config	88	static
+../Src/main.c:156:13:Error_Handler	8	static
